@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		inteiro a = 0
@@ -12,7 +11,6 @@ programa
 		leia(b)
 		inteiro resultado = a + b
 		escreva("O resultado da soma é: " + resultado)
-		
 	}
 }
 /* $$$ Portugol Studio $$$ 
